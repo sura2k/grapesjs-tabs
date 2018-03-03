@@ -15,6 +15,7 @@ export default (editor, config = {}) => {
       </svg>
       <div class="gjs-block-label">Tabs</div>
     `,
+	category: 'Experiment',
     content,
     ...tabsBlock
   });
